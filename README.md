@@ -1,11 +1,16 @@
 
-# Disclaimer: A Project from My Graduation Days 🎓
+# Instagram Tool
 
-This project was developed back in 2018 as part of my university graduation requirements. It’s a Human Resources Management System, built using C#, and, honestly, it was more about getting my degree than creating a masterpiece.
+A project from 2018
 
-⚠️ Warning:
+# 📖 Overview
 
-    The code you’ll find here reflects my skills and knowledge as a student—not the polished expertise I have today.
-    Expect unconventional solutions, overly simplistic logic, and possibly some "creative" workarounds. It’s all part of the journey.
+This project is an unfinished Instagram Follower Management Tool built using C# and Python in 2018. Its primary focus was on designing and developing an intuitive user interface (UI) rather than the backend functionalities. This tool was intended to help users manage their Instagram followers and connections more effectively, but its development was never fully completed.
 
-🤝 Feel free to explore, laugh, or even improve it. Just remember: this project helped me graduate, and for that, it holds a special place in my heart!
+# ⚠️ Disclaimer:
+
+* The tool was created for educational purposes only.
+* Instagram's API and policies have changed significantly since 2018, and the functionality described here may no longer be valid or operational.
+
+
+
